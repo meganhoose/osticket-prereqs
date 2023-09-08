@@ -54,6 +54,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 4. Install PHP Manager for IIS
+   
    ![download and install PHP manager for IIS](https://github.com/meganhoose/osticket-prereqs/assets/142938638/3a561ab5-3122-4264-85cd-109113d32903)
 
 
@@ -61,62 +62,62 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
    
 
-5. Install Rewrite Module
+6. Install Rewrite Module
  ![download and install rewrite module](https://github.com/meganhoose/osticket-prereqs/assets/142938638/69e1e252-4635-435a-b7f7-04f2693a1d1d)
 
 
 
 
-6. Install PHP
+7. Install PHP
   ![download PHP 7 3 8](https://github.com/meganhoose/osticket-prereqs/assets/142938638/3d8c0fa4-5b9d-4726-a12a-2c44845b65ce)
 
 
    
 
-7. Install VC
+8. Install VC
 
   
 
 
-8. Install MySQL
+9. Install MySQL
    ![download and install MySQL](https://github.com/meganhoose/osticket-prereqs/assets/142938638/9d91d008-14c5-4515-8511-810436066229)
 
 
 
 
 
-9. Open IIS as admin and register PHP in IIS
+10. Open IIS as admin and register PHP in IIS
     ![open IIS and run as admin](https://github.com/meganhoose/osticket-prereqs/assets/142938638/845f254e-4b2b-4cb1-8bfb-2c68409fc51a)
     
    ![register PHP in IIS](https://github.com/meganhoose/osticket-prereqs/assets/142938638/573fbad1-e936-43af-99c5-7dabeb97c8f1)
 
 
 
-10. Install osTicket
+11. Install osTicket
     ![osTicket installed](https://github.com/meganhoose/osticket-prereqs/assets/142938638/99769039-c0ed-4b15-b9f6-c4c3779eef60)
 
 
 
-11. Enable extensions in IIS
+12. Enable extensions in IIS
     ![enable extensions](https://github.com/meganhoose/osticket-prereqs/assets/142938638/02d974ad-085c-49d4-b743-953fd5a4895b)
 
 
 
-12. Assign permissions
+13. Assign permissions
 
 
 
 
 
 
-13. Install HeidiSQL
+14. Install HeidiSQL
     ![download and instal HeidiSQL](https://github.com/meganhoose/osticket-prereqs/assets/142938638/1d608afe-cac5-4814-811b-789ffa53bbbb)
 
 
 
 
 
-14. Continue setting up osTicket in browser
+15. Continue setting up osTicket in browser
     ![refresh osTicket to see extensions enabled](https://github.com/meganhoose/osticket-prereqs/assets/142938638/a6fbc1e8-7aed-4f95-b90a-76dd29fa3a6a)
 
     ![setup osTicket with info](https://github.com/meganhoose/osticket-prereqs/assets/142938638/a0e6454d-4363-498c-b732-1119d37ec003)
