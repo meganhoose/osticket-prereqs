@@ -54,7 +54,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 4. Install PHP Manager for IIS
-    ![download and install PHP manager for IIS](https://github.com/meganhoose/osticket-prereqs/assets/142938638/6f9058c7-256e-4c3d-8057-70c3e16b6380)
+   ![download and install PHP manager for IIS](https://github.com/meganhoose/osticket-prereqs/assets/142938638/3a561ab5-3122-4264-85cd-109113d32903)
 
 
 
