@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create a resource group in Azure
-- Create a virtual machine Azure
+- Create a virtual machine in Azure
 - Install and enable IIS in Windows
 - Install PHP Manager for IIS
 - Install Rewrite Module
@@ -37,5 +37,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 1. Create a resource group in Azure
-   ![create a resource group for lab 2](https://github.com/meganhoose/osticket-prereqs/assets/142938638/77145625-2989-408f-91e7-d05b9f347e50)
+  ![Screenshot (2)](https://github.com/meganhoose/osticket-prereqs/assets/142938638/337e422c-e06c-4ff0-80ed-cea8b97e9b6e)
+
+
+2. Create a virtual machine in Azure
+   ![Screenshot (4)](https://github.com/meganhoose/osticket-prereqs/assets/142938638/b4959e37-fda4-44be-a670-eadc51630a60)
 
