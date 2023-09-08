@@ -114,6 +114,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 13. Install HeidiSQL
+
+    
     ![download and instal HeidiSQL](https://github.com/meganhoose/osticket-prereqs/assets/142938638/1d608afe-cac5-4814-811b-789ffa53bbbb)
 
 
