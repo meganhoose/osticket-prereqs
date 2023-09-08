@@ -35,3 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Continue setting up osTicket in browser
   
 <h2>Installation Steps</h2>
+
+1. Create a resource group in Azure
+   ![create a resource group for lab 2](https://github.com/meganhoose/osticket-prereqs/assets/142938638/77145625-2989-408f-91e7-d05b9f347e50)
+
