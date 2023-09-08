@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This list outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -34,3 +34,4 @@ This list outlines the prerequisites and installation of the open-source help de
 - Install HeidiSQL
 - Continue setting up osTicket in browser
   
+<h2>Installation Steps</h2>
