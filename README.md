@@ -52,17 +52,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 4. Install PHP Manager for IIS
-    ![download and install PHP manager for IIS](https://github.com/meganhoose/osticket-prereqs/assets/142938638/bce36e48-78dd-43be-9618-e8cdb76febef)
+    ![download and install PHP manager for IIS](https://github.com/meganhoose/osticket-prereqs/assets/142938638/6f9058c7-256e-4c3d-8057-70c3e16b6380)
+
 
    
 
 5. Install Rewrite Module
-   ![download and install rewrite module](https://github.com/meganhoose/osticket-prereqs/assets/142938638/1d113ff9-dff1-4d93-94d3-673d853ce019
+ ![download and install rewrite module](https://github.com/meganhoose/osticket-prereqs/assets/142938638/69e1e252-4635-435a-b7f7-04f2693a1d1d)
 
-   
 
 6. Install PHP
-   ![download PHP 7 3 8](https://github.com/meganhoose/osticket-prereqs/assets/142938638/dd9b8a3c-738e-499d-a0b3-19b7a92c814a
+  ![download PHP 7 3 8](https://github.com/meganhoose/osticket-prereqs/assets/142938638/3d8c0fa4-5b9d-4726-a12a-2c44845b65ce)
+
 
    
 
@@ -93,6 +94,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 12. Assign permissions
+
+
 
 
 
